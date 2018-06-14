@@ -1,4 +1,4 @@
-# Document Clustering and Topic Modeling for Movie Synopses
+# Natural Language Processing and Topic Modeling for Movie Synopses
 
 ### Objective
 In this project, we use unsupervised learning models to cluster synopses of [Top 100 Greatest Movies of All Time from IMDB](http://www.imdb.com/list/ls055592025/) into different groups, visualize the results and identify their latent topics/structures.
